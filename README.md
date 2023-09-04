@@ -1,4 +1,5 @@
 # CProject
+ https://akshitgoyal038.github.io/CProject/
 This repository contains implementations and explanations of three popular CPU scheduling algorithms: Round Robin, Shortest Job First (SJF), and Priority Scheduling. Each algorithm plays a crucial role in managing the execution of processes in a multi-tasking operating system. This README file provides an overview of each algorithm, along with instructions on how to use and understand the code provided in this repository.
 
 Table of Contents
